@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,mysql,html,css,php,javascript" />
   </a>
 
 ---
